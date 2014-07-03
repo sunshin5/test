@@ -1,3 +1,6 @@
 [submodule "test"]
 	path = test
 	url = https://github.com/sunshin5/test.git
+[submodule "mm"]
+	path = mm
+	url = https://github.com/sunshin5/test.git
