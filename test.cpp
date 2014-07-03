@@ -6,5 +6,6 @@ int main() {
   printf("22222222222222");
   printf("33333333333333");
   printf("44444444444444");
+  printf("git stash\n");
   return 0;
 }
